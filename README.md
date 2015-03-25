@@ -36,7 +36,7 @@
   + a tag
   + unordered and ordered lists
   + div tag
-+ Show HTML5 documentation and all the other tag possibilities there are
++ Show HTML5 documentation and all the other tag possibilities there are.
 
 ### Conclusion / So What?
 + The way a website looks is vital to the user having a good experience of it. If you navigate to a website that looks like it was built in 1992, you're much less likely to take it seriously. The first step in making sure your website will look good is making sure the content is appropriately structured with the proper HTML tags. The next step is giving it visual flair and style using CSS.
