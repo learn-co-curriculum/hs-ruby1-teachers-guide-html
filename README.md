@@ -46,3 +46,5 @@
 + Emphasize styling and indentation best practices with HTML
 + Remind students about P.E.P. - encourage them to use Google to find solutions to their problems first.
 + Set the expectation that HTML/CSS is a lot of playing and messing around and figuring things out by trial and error.
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-html' data-visibility='hidden'>View this lesson on Learn.co</a>
